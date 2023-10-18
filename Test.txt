@@ -1,1 +1,2 @@
-testing job build on pushing to remote hosit
+testing job build on pushing to remote host
+testing poll scm
